@@ -18,4 +18,7 @@ public class GCTest {
             e.printStackTrace();
         }
     }
+    public void fun(){
+
+    }
 }
