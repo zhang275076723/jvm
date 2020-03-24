@@ -19,6 +19,6 @@ public class GCTest {
         }
     }
     public void fun(){
-
+        System.out.println();
     }
 }
