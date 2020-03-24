@@ -20,5 +20,6 @@ public class GCTest {
     }
     public void fun(){
         System.out.println();
+        System.out.println("b1分支");
     }
 }
